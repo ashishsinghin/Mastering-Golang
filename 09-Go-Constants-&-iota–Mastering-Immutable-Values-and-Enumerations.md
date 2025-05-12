@@ -1,4 +1,4 @@
-# **Module 1 – Video 8: Constants and iota in Go**
+# **Constants and iota in Go**
 
 ## **Overview**
 
